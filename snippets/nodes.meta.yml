@@ -6,14 +6,6 @@ proxies:
   sni: nl.prisma-access.club
   tls: false
   type: hysteria2
-- name: 8|兰
-  password: 08794874-93d0-4cf2-b9d6-1f2774cdffeb
-  port: 2101
-  server: 144.31.5.9
-  skip-cert-verify: true
-  sni: panel.vlessbotkey.ru
-  tls: false
-  type: hysteria2
 - name: 8|未命名
   password: 1427eb10-7529-4d38-a6a2-01b337868b37
   port: 4433
@@ -153,6 +145,13 @@ proxies:
   sni: us54.mechvpn.online
   tls: false
   type: hysteria2
+- name: 8|兰
+  password: 83deb5ce-cd1c-41a6-8ec5-2ebc91f6f861
+  port: 8443
+  server: 31.76.70.109
+  sni: quic.tyr-agentstvo.tech
+  tls: false
+  type: hysteria2
 - name: '8|未命名 #7'
   password: 85a88b70b5f2f73d0dcac92bd3934a5e
   port: 50160
@@ -209,7 +208,7 @@ proxies:
   sni: ftp.debian.org
   tls: false
   type: hysteria2
-- name: '8|兰 #1'
+- name: 8|芬兰
   password: Apt1923_N9x234gn_Nal5Nx3j_s
   port: 8443
   server: 222.167.212.80
@@ -341,13 +340,6 @@ proxies:
   server: ndge4.whit3.net
   skip-cert-verify: true
   sni: ndge4.whit3.net
-  tls: false
-  type: hysteria2
-- name: '8|波兰 #3'
-  password: b11841e3-2acc-45ff-afe0-a9ed9a823aaa
-  port: 443
-  server: rpc-2068.internet-booster.com
-  sni: rpc-2068.internet-booster.com
   tls: false
   type: hysteria2
 - name: 8|利亚
@@ -487,11 +479,18 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: '8|兰 #2'
+- name: '8|兰 #1'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 46.229.243.139
   skip-cert-verify: true
+  sni: grape-turbo-fr.roxa.org
+  tls: false
+  type: hysteria2
+- name: 8|瑞
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8080
+  server: 46.229.243.141
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
@@ -716,7 +715,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 9|🇩🇪150017 | Telegram = t.me/SOS...
+- name: 9|1🧮@oneclickvpnkeys
   password: dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s
   port: 8443
   server: 194.180.188.120
@@ -724,7 +723,7 @@ proxies:
   sni: keyhop-offshore.roxa.org
   tls: false
   type: hysteria2
-- name: 9|41@oneclickvpnkeys
+- name: 9|🧮41@oneclickvpnkeys
   password: h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT
   port: 8443
   server: 103.246.248.226
@@ -781,7 +780,19 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 9|@v2ray313 کانالمون ️
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 9|dc-udp-🇧 Belgium-Brussels
+  obfs: salamander
+  obfs-password: 93lc6r07zfx4crct
+  password: t8t2qojzsykqazfu
+  port: 52008
+  server: assets.gateway-stream.com
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '9|@v2ray313 کانالمون '
   obfs: salamander
   obfs-password: kf1lypzqidy6pimt
   password: t8t2qojzsykqazfu
