@@ -7,6 +7,14 @@ proxies:
   sni: panel.vlessbotkey.ru
   tls: false
   type: hysteria2
+- name: 8,9|🏓33@oneclickvpnkeys
+  password: 0bacdaea-099b-462b-b625-d7d44c89aace
+  port: 55000
+  server: 94.156.250.67
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: 8|未命名
   password: 1427eb10-7529-4d38-a6a2-01b337868b37
   port: 4433
@@ -42,13 +50,6 @@ proxies:
   sni: xk7qhk307.ckpfef.top
   tls: false
   type: hysteria2
-- name: '8|未命名 #1'
-  password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
-  port: 2056
-  server: db1.mangshe.xyz
-  sni: db1.mangshe.xyz
-  tls: false
-  type: hysteria2
 - name: 8|🇺🇸US
   password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
   port: 2056
@@ -57,7 +58,7 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: '8|未命名 #2'
+- name: '8|未命名 #1'
   password: 2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o
   port: 443
   server: pixelcast.wwwinternetvideo.click
@@ -73,21 +74,14 @@ proxies:
   sni: node.embrofree.org
   tls: false
   type: hysteria2
-- name: '8|未命名 #3'
+- name: '8|未命名 #2'
   password: 3b8c82ed-fe66-472d-915e-034ccb57103f
   port: 8443
   server: swe.frkn.org
   sni: swe.frkn.org
   tls: false
   type: hysteria2
-- name: '8|未命名 #4'
-  password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
-  port: 443
-  server: at133.mechvpn.online
-  sni: at133.mechvpn.online
-  tls: false
-  type: hysteria2
-- name: 8|利
+- name: '8|未命名 #3'
   password: 53c76647-14d1-4df5-99cb-be99ad2e6bd9
   port: 443
   server: bg185.mechvpn.online
@@ -130,13 +124,6 @@ proxies:
   sni: quic.tyr-agentstvo.tech
   tls: false
   type: hysteria2
-- name: '8|未命名 #5'
-  password: 85a88b70b5f2f73d0dcac92bd3934a5e
-  port: 50160
-  server: 211.22.154.26
-  sni: 211-22-154-26.liao.kdns.fr
-  tls: false
-  type: hysteria2
 - name: '8|波兰 #2'
   password: 865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01
   port: 443
@@ -161,7 +148,7 @@ proxies:
   sni: cn.cremedelamer.com
   tls: false
   type: hysteria2
-- name: '8|未命名 #6'
+- name: '8|未命名 #4'
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8080
   server: 162.249.124.105
@@ -184,7 +171,7 @@ proxies:
   sni: hk-ls-r-1.czzhkractqqakfzdmrgd.cc
   tls: false
   type: hysteria2
-- name: '8|未命名 #7'
+- name: '8|未命名 #5'
   password: Foc_Mcxi45rM9v3ve_N92fdrK_10_Ssc5
   port: 8443
   server: 185.39.31.117
@@ -331,7 +318,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '8|利 #1'
+- name: 8|利
   password: belgium_hysteria2_fastlane_a118d9y0r
   port: 443
   server: 113.30.152.25
@@ -450,27 +437,12 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 8|亚
-  password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
-  port: 443
-  server: cabinet.wwwinternetvideo.click
-  sni: cabinet.wwwinternetvideo.click
-  tls: false
-  type: hysteria2
-- name: '8|国 #4'
+- name: '8|美国 #2'
   password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
   port: 443
   server: faq.wwwinternetvideo.click
   skip-cert-verify: true
   sni: cabinet.wwwinternetvideo.click
-  tls: false
-  type: hysteria2
-- name: 9|🏓33@oneclickvpnkeys
-  password: 0bacdaea-099b-462b-b625-d7d44c89aace
-  port: 55000
-  server: 94.156.250.67
-  skip-cert-verify: true
-  sni: www.bing.com
   tls: false
   type: hysteria2
 - name: 9|151555 | Telegram = t.me/SOSke...
@@ -481,7 +453,7 @@ proxies:
   sni: olp.crsmaps.com
   tls: false
   type: hysteria2
-- name: 9|95@oneclickvpnkeys
+- name: 9|🏓95@oneclickvpnkeys
   password: 1f619326-cd93-4d6b-aebe-e0b5f8831d02
   port: 10808
   server: 79.137.205.35
@@ -530,7 +502,7 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 9|96@oneclickvpnkeys
+- name: 9|🏓96@oneclickvpnkeys
   password: 865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01
   port: 443
   server: 217.60.33.215
@@ -538,7 +510,7 @@ proxies:
   sni: streambox.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: 9|94@oneclickvpnkeys
+- name: 9|🏓94@oneclickvpnkeys
   password: 8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3
   port: 443
   server: 185.191.238.202
@@ -610,12 +582,13 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 9|🇳🇱151426 | ⚡️Telegram = t.me/S...
+- name: 9|@FreakConfig
   obfs: salamander
   obfs-password: SalamanderNL2026
   password: NL2026hy
   port: 8443
   server: 147.45.149.88
+  skip-cert-verify: false
   sni: nl.nobelchat.ru
   tls: false
   type: hysteria2
@@ -701,7 +674,7 @@ proxies:
   sni: www.microsoft.com
   tls: false
   type: hysteria2
-- name: '9|94@oneclickvpnkeys #1'
+- name: 9|94@oneclickvpnkeys
   password: e660daf2da753ca8317387342b8af384
   port: 50160
   server: 3.71.196.174
@@ -844,24 +817,24 @@ proxies:
 - name: 11,12|香港4|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 4117
-  server: 18.183.103.86
+  port: 2944
+  server: 18.181.83.46
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: 11,12|香港5|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 2944
-  server: 18.166.63.119
+  port: 1103
+  server: 43.206.117.36
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: 11,12|日本|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 3878
-  server: 13.214.209.40
+  port: 16691
+  server: 95.40.27.43
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
@@ -880,8 +853,8 @@ proxies:
 - name: 11,12|新加坡3|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 41421
-  server: 18.183.103.86
+  port: 32434
+  server: 95.40.27.43
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
@@ -900,8 +873,8 @@ proxies:
 - name: 11,12|美国3|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 34039
-  server: 54.179.227.94
+  port: 10418
+  server: 18.163.118.157
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
