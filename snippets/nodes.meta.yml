@@ -9,32 +9,11 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8,9| @prrofile_purple (ا)
-  obfs: salamander
-  obfs-password: qkdqum5rllpyup7h
-  password: dfo5i9p6payp29i0
-  port: 22357
-  server: ll5xoe8j.easyiran.org
-  skip-cert-verify: false
-  sni: ll5xoe8j.easyiran.org
-  tls: false
-  type: hysteria2
-- name: 8|139909 | ⚡️Telegram = t.me/SOS...
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: 54.213.89.22
-  skip-cert-verify: true
-  sni: vk.com
-  tls: false
-  type: hysteria2
-- name: 9|@V2rayng_mar_ket
-  obfs: salamander
-  obfs-password: 87d72c2949c0ca85bbda09459244e374
-  password: 35d26d53bc
-  port: 11592
-  server: 109.104.153.124
-  skip-cert-verify: false
-  sni: srv-0e5387.frd21.ru
+- name: 9|🇩🇪201034 | ⚡️Telegram = t.me/S...
+  password: 2f0fccb6-4a86-4d9f-9e03-a2dfee6ed7f5
+  port: 8443
+  server: 95.85.252.217
+  sni: speedtestmark.com
   tls: false
   type: hysteria2
 - name: '9|@Begoo_VPN '
@@ -87,7 +66,7 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '9|Telegram 🆔@cnetvpn '
+- name: 9|Telegram 🆔@cnetvpn 🇪
   obfs: salamander
   obfs-password: 6cmj1dymhm79hopl
   password: 8z2e26xkqsa598s3
@@ -95,28 +74,6 @@ proxies:
   server: gift-catalog.aroonia.ir
   skip-cert-verify: false
   sni: gift-catalog.aroonia.ir
-  tls: false
-  type: hysteria2
-- name: 9|🇩🇪200800 | Telegram = t.me/SOS...
-  password: 9qFAF3s4R7wkGxcI0fonColtap41RUTsWdW
-  port: 30396
-  server: 45.131.65.244
-  skip-cert-verify: false
-  sni: pisulka.jsbox.top
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  - h2
-  - http/1.1
-  fingerprint: chrome
-  name: 9|telegram:@pirozi_ArGaP
-  obfs: salamander
-  obfs-password: TYrQkc4C2MJMKlzlge0M_hrH
-  password: EOaHwQIGHSjmsbYl_g6nPanNsQ2td2Yv
-  port: 8443
-  server: ip.immahan.ir
-  sni: tr.tu5pars.ir
   tls: false
   type: hysteria2
 - name: 9|+@Azarakhsh_Proxy+
@@ -225,6 +182,16 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- fingerprint: chrome
+  name: 9|@tootffarangi
+  obfs: salamander
+  obfs-password: 5P1G9AdY6Jx8giZJCuS4w_gV
+  password: Xg5RVA7OAqBS6zvK5J4RpOVm4UMRmL-I
+  port: 443
+  server: bt.wufpel.ir
+  sni: 124dfda72fbf73c9.wufpel.ir
+  tls: false
+  type: hysteria2
 - name: 9| - NL - @FreeOnlineVPN
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -245,7 +212,14 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '9|@V2rayng_mar_ket #1'
+- name: 9|🇩🇪201035 | ⚡️Telegram = t.me/S...
+  password: c0242d1b-db7a-4dcf-95ff-e10a3ef1c1a3
+  port: 4443
+  server: 31.76.24.11
+  sni: de1.shvpn.ru
+  tls: false
+  type: hysteria2
+- name: 9|@V2rayng_mar_ket
   obfs: salamander
   obfs-password: ec66908dbc46e6920143d9b684adf277
   password: ca78f919e6
@@ -255,14 +229,14 @@ proxies:
   sni: srv-3fc7c9.21freedom.net
   tls: false
   type: hysteria2
-- name: 9|🇳🇱200697 | ⚡️Telegram = t.me/S...
+- name: 9| @prrofile_purple (ا)
   obfs: salamander
-  obfs-password: ypvL8T4HFIBLoH8q
-  password: capadm54312235
-  port: 443
-  server: 51.15.16.68
-  skip-cert-verify: true
-  sni: vpn.local
+  obfs-password: qkdqum5rllpyup7h
+  password: dfo5i9p6payp29i0
+  port: 22357
+  server: ll5xoe8j.easyiran.org
+  skip-cert-verify: false
+  sni: ll5xoe8j.easyiran.org
   tls: false
   type: hysteria2
 - name: 9|@vmess_ir
@@ -293,6 +267,15 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 9|🇩🇪201128 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 7922smqtd5qm70fu
+  password: hltm9jnj6ez4cbhd
+  port: 2098
+  server: vip.trapxan.ir
+  sni: vip.trapxan.ir
   tls: false
   type: hysteria2
 - name: '9|@confiig_hub #1'
@@ -347,7 +330,7 @@ proxies:
   sni: de2.jey.cc.cd
   tls: false
   type: hysteria2
-- name: 9|Telegram 🆔@cnetvpn 🇪
+- name: '9|Telegram 🆔@cnetvpn 🇪 #1'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: vz86jgszv4zszchv
